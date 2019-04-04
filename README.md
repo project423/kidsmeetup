@@ -44,9 +44,10 @@ In our busy life, out kidz are getting glued in the device,which is not good for
 
 RESTful API documentation.
 
-## Problems
+## Opportunities to Grow
+Working with two other people, one of the remotely and effectively communicating ideas between three talented web developers.
 
-## Futures
+
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
@@ -89,14 +90,9 @@ To-do list:
 * to use AWS S3 for image upload
 * to deploy the completed project in Heroku
 
-## Status
-Project is: pre project work just started. We are preparing the set up for the project, collecting accessories, images, apis. 
 
-## Inspiration
-Add here credits. Project inspired by #GENERAL ASSEMBLY#
 
 ## Contact
-Created by [@DATX team]- feel free to contact me!
+Created by [@DATX team]- feel free to contact us!
 
-TEST
 
